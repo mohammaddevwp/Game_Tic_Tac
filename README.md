@@ -37,3 +37,13 @@
 * شمارش زمان باقی‌مانده
 * نمایش نتیجه بازی
 * رابط کاربری ساده و زیبا با استفاده از Bootstrap
+
+
+
+![photo_5771592703681873158_y](https://github.com/user-attachments/assets/b6c55775-d867-494c-b121-18789a0f549b)
+![photo_5771592703681873159_y](https://github.com/user-attachments/assets/d50aff5b-4b41-4ebc-b978-f8a3f193c5bb)
+![photo_5771592703681873161_y](https://github.com/user-attachments/assets/dc98968d-a143-44bb-a246-17a24f5512f8)
+![photo_5771592703681873160_y](https://github.com/user-attachments/assets/13a6491e-d83a-4269-9fa7-4dea16024b82)
+![photo_5771592703681873163_y](https://github.com/user-attachments/assets/eaefdc44-76c3-4a5d-85bd-45fbbf2fe04b)
+![photo_5771592703681873162_y](https://github.com/user-attachments/assets/6d16a58c-941c-4efb-97e7-b2d65028134c)
+
